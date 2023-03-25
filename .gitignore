@@ -6,3 +6,5 @@ UnityPlayer.dll
 valheim.exe
 BepInEx/cache/
 BepInEx/LogOutput.log
+BepInEx/plugins/vortex.deployment.json
+BepInEx/vortex.deployment.bepinex-root-mod.json

@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "hardlink_activator",
   "gameId": "valheim",
-  "deploymentTime": 1679627859485,
+  "deploymentTime": 1679720100993,
   "stagingPath": "D:\\vortex-mods\\valheim",
   "targetPath": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\Valheim\\BepInEx\\plugins",
   "files": [
@@ -11,187 +11,187 @@
       "relPath": "CW_Jesse.BetterFPS.dll",
       "source": "CW_Jesse's Valheim Framerate Booster-2308-1-1-2-1678567859",
       "target": "",
-      "time": 1678567685000
-    },
-    {
-      "relPath": "files\\adventuredata.json",
-      "source": "Epic Loot-387-0-9-9-1678798712",
-      "target": "",
-      "time": 1673657541000
-    },
-    {
-      "relPath": "files\\EpicLoot.dll",
-      "source": "Epic Loot-387-0-9-9-1678798712",
-      "target": "",
-      "time": 1678765909000
-    },
-    {
-      "relPath": "files\\itemnames.json",
-      "source": "Epic Loot-387-0-9-9-1678798712",
-      "target": "",
-      "time": 1670882487000
+      "time": 1679629885000
     },
     {
       "relPath": "CustomTextures.dll",
       "source": "Custom Textures-48-3-2-3-1677778414",
       "target": "",
-      "time": 1677731574000
+      "time": 1679629885000
     },
     {
-      "relPath": "files\\enchantcosts.json",
+      "relPath": "files\\adventuredata.json",
       "source": "Epic Loot-387-0-9-9-1678798712",
       "target": "",
-      "time": 1678765670000
-    },
-    {
-      "relPath": "files\\legendaries.json",
-      "source": "Epic Loot-387-0-9-9-1678798712",
-      "target": "",
-      "time": 1676562820000
-    },
-    {
-      "relPath": "files\\magiceffects.json",
-      "source": "Epic Loot-387-0-9-9-1678798712",
-      "target": "",
-      "time": 1676562859000
-    },
-    {
-      "relPath": "files\\loottables.json",
-      "source": "Epic Loot-387-0-9-9-1678798712",
-      "target": "",
-      "time": 1678765627000
-    },
-    {
-      "relPath": "files\\iteminfo.json",
-      "source": "Epic Loot-387-0-9-9-1678798712",
-      "target": "",
-      "time": 1672725364000
-    },
-    {
-      "relPath": "files\\recipes.json",
-      "source": "Epic Loot-387-0-9-9-1678798712",
-      "target": "",
-      "time": 1670882487000
-    },
-    {
-      "relPath": "files\\materialconversions.json",
-      "source": "Epic Loot-387-0-9-9-1678798712",
-      "target": "",
-      "time": 1673657541000
-    },
-    {
-      "relPath": "Jotunn\\Jotunn.dll",
-      "source": "Jotunn-1138-2-11-0-1678743335",
-      "target": "",
-      "time": 1678743180000
-    },
-    {
-      "relPath": "files\\translations.json",
-      "source": "Epic Loot-387-0-9-9-1678798712",
-      "target": "",
-      "time": 1678760842000
-    },
-    {
-      "relPath": "Jotunn\\Jotunn.xml",
-      "source": "Jotunn-1138-2-11-0-1678743335",
-      "target": "",
-      "time": 1678743180000
-    },
-    {
-      "relPath": "ExtendedItemDataFramework.dll",
-      "source": "Extended Item Data Framework-281-1-0-11-1673377154",
-      "target": "",
-      "time": 1673376500000
-    },
-    {
-      "relPath": "LevelingSystem.dll",
-      "source": "LevelingSystem-2282-0-3-0-1678995689",
-      "target": "",
-      "time": 1678969688000
-    },
-    {
-      "relPath": "Jotunn\\Jotunn.dll.mdb",
-      "source": "Jotunn-1138-2-11-0-1678743335",
-      "target": "",
-      "time": 1678743269000
-    },
-    {
-      "relPath": "Jotunn\\Jotunn.pdb",
-      "source": "Jotunn-1138-2-11-0-1678743335",
-      "target": "",
-      "time": 1678743180000
-    },
-    {
-      "relPath": "Jotunn\\README.md",
-      "source": "Jotunn-1138-2-11-0-1678743335",
-      "target": "",
-      "time": 1675365513000
-    },
-    {
-      "relPath": "Advize_PlantEverything.dll",
-      "source": "Plant Everything-1042-1-13-3-1678777231",
-      "target": "",
-      "time": 1678729784000
-    },
-    {
-      "relPath": "CreatureLevelControl.dll",
-      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
-      "target": "",
-      "time": 1679580019000
-    },
-    {
-      "relPath": "Chinese.yml",
-      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
-      "target": "",
-      "time": 1679580019000
-    },
-    {
-      "relPath": "Default.yml",
-      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
-      "target": "",
-      "time": 1679580019000
-    },
-    {
-      "relPath": "config\\ItemConfig.yml",
-      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
-      "target": "",
-      "time": 1679580019000
-    },
-    {
-      "relPath": "French.yml",
-      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
-      "target": "",
-      "time": 1679580019000
-    },
-    {
-      "relPath": "EquipmentAndQuickSlots.dll",
-      "source": "Equipment and Quick Slots-92-2-1-2-1678728301",
-      "target": "",
-      "time": 1678713919000
-    },
-    {
-      "relPath": "German.yml",
-      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
-      "target": "",
-      "time": 1679580019000
-    },
-    {
-      "relPath": "config\\CreatureConfig.yml",
-      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
-      "target": "",
-      "time": 1679580019000
+      "time": 1679629885000
     },
     {
       "relPath": "files\\abilities.json",
       "source": "Epic Loot-387-0-9-9-1678798712",
       "target": "",
-      "time": 1670882487000
+      "time": 1679629885000
+    },
+    {
+      "relPath": "files\\EpicLoot.dll",
+      "source": "Epic Loot-387-0-9-9-1678798712",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "files\\enchantcosts.json",
+      "source": "Epic Loot-387-0-9-9-1678798712",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "files\\legendaries.json",
+      "source": "Epic Loot-387-0-9-9-1678798712",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "files\\loottables.json",
+      "source": "Epic Loot-387-0-9-9-1678798712",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "files\\magiceffects.json",
+      "source": "Epic Loot-387-0-9-9-1678798712",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "EquipmentAndQuickSlots.dll",
+      "source": "Equipment and Quick Slots-92-2-1-2-1678728301",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "ExtendedItemDataFramework.dll",
+      "source": "Extended Item Data Framework-281-1-0-11-1673377154",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "files\\materialconversions.json",
+      "source": "Epic Loot-387-0-9-9-1678798712",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "files\\itemnames.json",
+      "source": "Epic Loot-387-0-9-9-1678798712",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "files\\recipes.json",
+      "source": "Epic Loot-387-0-9-9-1678798712",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "files\\translations.json",
+      "source": "Epic Loot-387-0-9-9-1678798712",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "LevelingSystem.dll",
+      "source": "LevelingSystem-2282-0-3-0-1678995689",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.xml",
+      "source": "Jotunn-1138-2-11-0-1678743335",
+      "target": "",
+      "time": 1679629885000
     },
     {
       "relPath": "Jotunn\\CHANGELOG.md",
       "source": "Jotunn-1138-2-11-0-1678743335",
       "target": "",
-      "time": 1678743245000
+      "time": 1679629885000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.dll.mdb",
+      "source": "Jotunn-1138-2-11-0-1678743335",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.pdb",
+      "source": "Jotunn-1138-2-11-0-1678743335",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "CreatureLevelControl.dll",
+      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "Jotunn\\README.md",
+      "source": "Jotunn-1138-2-11-0-1678743335",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "files\\iteminfo.json",
+      "source": "Epic Loot-387-0-9-9-1678798712",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.dll",
+      "source": "Jotunn-1138-2-11-0-1678743335",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "config\\CreatureConfig.yml",
+      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "Chinese.yml",
+      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "French.yml",
+      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "Default.yml",
+      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "Advize_PlantEverything.dll",
+      "source": "Plant Everything-1042-1-13-3-1678777231",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "German.yml",
+      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
+      "target": "",
+      "time": 1679629885000
+    },
+    {
+      "relPath": "config\\ItemConfig.yml",
+      "source": "Smoothbrain-CreatureLevelAndLootControl_4.5.5",
+      "target": "",
+      "time": 1679629885000
     }
   ]
 }

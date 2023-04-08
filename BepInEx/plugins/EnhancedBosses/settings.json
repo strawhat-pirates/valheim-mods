@@ -1,0 +1,254 @@
+{
+	"Eikthyr": 
+	{
+		"Eikthyr_antler":
+		{
+			"Enabled": true,
+			"Cooldown": 5
+		},
+		"Eikthyr_charge":
+		{
+			"Enabled": true,
+			"Cooldown": 25
+		},
+		"Eikthyr_stomp":
+		{
+			"Enabled": true,
+			"Cooldown": 40
+		},
+		"Eikthyr_summon":
+		{
+			"Enabled": true,
+			"Cooldown": 45,
+			"maxMinionsCount": 5,
+			"maxMinionsCountPerPlayer": 3,
+			"spawnMinionsCount": 3,
+			"spawnMinionsPerPlayer": 2,
+			"Creatures": ["Neck", "Boar"]
+		},
+		"Eikthyr_clones":
+		{
+			"Enabled": true,
+			"Cooldown": 45,
+			"Heal": 100,
+			"HpThreshold": 0.75
+		},
+		"Eikthyr_vortex":
+		{
+			"Enabled": true,
+			"Cooldown": 40
+		},
+		"Eikthyr_storm":
+		{
+			"Enabled": true,
+			"Cooldown": 40
+		}
+	},	
+	"gd_king": 
+	{
+		"gd_king_rootspawn":
+		{
+			"Enabled": true,
+			"Cooldown": 30
+		},
+		"gd_king_stomp":
+		{
+			"Enabled": true,
+			"Cooldown": 5
+		},
+		"gd_king_scream":
+		{
+			"Enabled": true,
+			"Cooldown": 30
+		},
+		"gd_king_shoot":
+		{
+			"Enabled": true,
+			"Cooldown": 6
+		},
+		"gd_king_summon":
+		{
+			"Enabled": true,
+			"Cooldown": 90,
+			"maxMinionsCount": 3,
+			"maxMinionsCountPerPlayer": 2,
+			"spawnMinionsCount": 2,
+			"spawnMinionsPerPlayer": 1,
+			"Creatures": ["Greydwarf_Elite", "Greydwarf_Shaman"]
+		},
+		"gd_king_shield":
+		{
+			"Enabled": true,
+			"Cooldown": 90,
+			"HpThreshold": 0.75,
+			"ShieldHp": 200,
+			"ShieldDuration": 30
+		},
+		"gd_king_heal":
+		{
+			"Enabled": true,
+			"Cooldown": 90,
+			"Heal": 300,
+			"HpThreshold": 0.75
+		},
+		"gd_king_teleport":
+		{
+			"Enabled": true,
+			"Cooldown": 60,
+			"Heal": 200
+		},
+		"gd_king_demolish":
+		{
+			"Enabled": true,
+			"Cooldown": 60
+		}
+	},
+	"Bonemass":
+	{
+		"bonemass_attack_aoe":
+		{
+			"Enabled": true,
+			"Cooldown": 30
+		},
+		"bonemass_attack_punch":
+		{
+			"Enabled": true,
+			"Cooldown": 7
+		},
+		"bonemass_attack_throw":
+		{
+			"Enabled": true,
+			"Cooldown": 50
+		},
+		"bonemass_summon":
+		{
+			"Enabled": true,
+			"Cooldown": 90,
+			"maxMinionsCount": 4,
+			"maxMinionsCountPerPlayer": 2,
+			"spawnMinionsCount": 3,
+			"spawnMinionsPerPlayer": 2,
+			"Creatures": ["Draugr", "Draugr_Elite", "Blob", "BlobElite"]
+		}
+	},
+	"Dragon":
+	{
+		"dragon_taunt":
+		{
+			"Enabled": true,
+			"Cooldown": 90,
+			"maxMinionsCount": 4,
+			"maxMinionsCountPerPlayer": 2,
+			"spawnMinionsCount": 3,
+			"spawnMinionsPerPlayer": 2,
+			"Creatures": ["Wolf"]
+		},
+		"dragon_bite":
+		{
+			"Enabled": true,
+			"Cooldown": 30
+		},
+		"dragon_claw_left":
+		{
+			"Enabled": true,
+			"Cooldown": 30
+		},
+		"dragon_claw_right":
+		{
+			"Enabled": true,
+			"Cooldown": 30
+		},
+		"dragon_spit_shotgun":
+		{
+			"Enabled": true,
+			"Cooldown": 8
+		},
+		"dragon_coldbreath":
+		{
+			"Enabled": true,
+			"Cooldown": 8
+		},
+		"dragon_summon":
+		{
+			"Enabled": true,
+			"Cooldown": 90,
+			"maxMinionsCount": 4,
+			"maxMinionsCountPerPlayer": 2,
+			"spawnMinionsCount": 3,
+			"spawnMinionsPerPlayer": 2,
+			"Creatures": ["Hatchling"]
+		}
+	},
+	"GoblinKing":
+	{
+		"GoblinKing_Beam":
+		{
+			"Enabled": true,
+			"Cooldown": 15
+		},
+		"GoblinKing_Meteors":
+		{
+			"Enabled": true,
+			"Cooldown": 25
+		},
+		"GoblinKing_Nova":
+		{
+			"Enabled": true,
+			"Cooldown": 20
+		},
+		"GoblinKing_Taunt":
+		{
+			"Enabled": true,
+			"Cooldown": 60
+		},
+		"GoblinKing_Summon":
+		{
+			"Enabled": true,
+			"Cooldown": 120,
+			"maxMinionsCount": 1,
+			"maxMinionsCountPerPlayer": 1,
+			"spawnMinionsCount": 1,
+			"spawnMinionsPerPlayer": 1,
+			"Creatures": ["Lox"]
+		}
+	}
+	,
+	"SeekerQueen":
+	{
+		"SeekerQueen_Teleport":
+		{
+			"Enabled": true,
+			"Cooldown": 60
+		},		
+		"SeekerQueen_Rush":
+		{
+			"Enabled": true,
+			"Cooldown": 25
+		},		
+		"SeekerQueen_Bite":
+		{
+			"Enabled": true,
+			"Cooldown": 10
+		},		
+		"SeekerQueen_Call":
+		{
+			"Enabled": true,
+			"Cooldown": 60
+		},		
+		"SeekerQueen_Spit":
+		{
+			"Enabled": true,
+			"Cooldown": 20
+		},		
+		"SeekerQueen_Slap":
+		{
+			"Enabled": true,
+			"Cooldown": 4
+		},		
+		"SeekerQueen_PierceAOE":
+		{
+			"Enabled": true,
+			"Cooldown": 4
+		}
+	}
+}

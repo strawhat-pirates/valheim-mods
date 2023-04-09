@@ -1,3 +1,4 @@
+# client
 MonoBleedingEdge/
 valheim_Data/
 steam_appid.txt
@@ -8,3 +9,21 @@ BepInEx/cache/
 BepInEx/LogOutput.log
 BepInEx/plugins/vortex.deployment.json
 BepInEx/vortex.deployment.bepinex-root-mod.json
+
+# server
+Valheim Dedicated Server Manual.pdf
+config/
+log.txt
+logs/
+start_headless_server.bat
+start_server.bat
+steamapps/
+steamclient.dll
+steamclient64.dll
+tier0_s.dll
+tier0_s64.dll
+valheim_server.exe
+valheim_server_Data/
+vortex.deployment.unstripped-assemblies.json
+vstdlib_s.dll
+vstdlib_s64.dll

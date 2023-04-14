@@ -9,6 +9,7 @@ BepInEx/cache/
 BepInEx/LogOutput.log
 BepInEx/plugins/vortex.deployment.json
 BepInEx/vortex.deployment.bepinex-root-mod.json
+BepInEx/vortex.deployment.val-conf-man.json
 
 # server
 Valheim Dedicated Server Manual.pdf
